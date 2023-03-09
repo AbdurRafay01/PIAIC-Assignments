@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "cors": "^2.8.5",
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "lodash": "^4.17.21"
   },
   "scripts": {
     "start": "http-server -c1"
